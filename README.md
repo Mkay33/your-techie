@@ -1,7 +1,7 @@
 ### ☁️ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 <hr>
 
-<h1>I am Mary Ajayi</h1>
+<h1>I am Mkpoikana Udoekong</h1>
 I'm a Cloud/DevOps Engineer. I am passionate about Cloud Engineering, DevOps culture, and Infrastructure Automation.
 
 - 🌱 I’m currently working on projects
